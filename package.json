@@ -1,0 +1,20 @@
+{
+  "name": "1.8-HTTP-serwer",
+  "version": "1.0.0",
+  "description": "\"serwer-http\"",
+  "main": "serwer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serwer.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marcin-Kurpiewski/1.8-HTTP-serwer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marcin-Kurpiewski/1.8-HTTP-serwer/issues"
+  },
+  "homepage": "https://github.com/Marcin-Kurpiewski/1.8-HTTP-serwer#readme"
+}
